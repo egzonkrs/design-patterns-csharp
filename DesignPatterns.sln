@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInversionPrincipl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalBuilder", "CreationalBuilder\CreationalBuilder.csproj", "{7192C2D7-C415-4207-8979-43D13984EA11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderInheritance", "BuilderInheritance\BuilderInheritance.csproj", "{0612CC56-3D9F-4213-837F-7421FFAA4064}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderInheritance", "BuilderInheritance\BuilderInheritance.csproj", "{0612CC56-3D9F-4213-837F-7421FFAA4064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalBuilder", "FunctionalBuilder\FunctionalBuilder.csproj", "{11FDA5CE-F098-479A-8DCC-539987DDAABE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{0612CC56-3D9F-4213-837F-7421FFAA4064}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0612CC56-3D9F-4213-837F-7421FFAA4064}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0612CC56-3D9F-4213-837F-7421FFAA4064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11FDA5CE-F098-479A-8DCC-539987DDAABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FDA5CE-F098-479A-8DCC-539987DDAABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FDA5CE-F098-479A-8DCC-539987DDAABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FDA5CE-F098-479A-8DCC-539987DDAABE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
