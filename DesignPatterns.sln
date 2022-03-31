@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderInheritance", "Build
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionalBuilder", "FunctionalBuilder\FunctionalBuilder.csproj", "{11FDA5CE-F098-479A-8DCC-539987DDAABE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalFactoriesFactory", "CreationalFactoriesFactory\CreationalFactoriesFactory.csproj", "{DE698DDD-50D6-4ABA-86C0-D3E9ADD218A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalFactoriesFactory", "CreationalFactoriesFactory\CreationalFactoriesFactory.csproj", "{DE698DDD-50D6-4ABA-86C0-D3E9ADD218A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{0700E411-5713-459E-B960-F0B2A9719126}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{DE698DDD-50D6-4ABA-86C0-D3E9ADD218A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE698DDD-50D6-4ABA-86C0-D3E9ADD218A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE698DDD-50D6-4ABA-86C0-D3E9ADD218A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0700E411-5713-459E-B960-F0B2A9719126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0700E411-5713-459E-B960-F0B2A9719126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0700E411-5713-459E-B960-F0B2A9719126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0700E411-5713-459E-B960-F0B2A9719126}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
