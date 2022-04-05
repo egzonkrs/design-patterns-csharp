@@ -3,27 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibilityPrinciple", "SingleResponsibilityPrinciple\SingleResponsibilityPrinciple.csproj", "{D0D9B570-4D47-49BF-8FC1-8353510108D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID.SingleResponsibilityPrinciple", "SingleResponsibilityPrinciple\SOLID.SingleResponsibilityPrinciple.csproj", "{D0D9B570-4D47-49BF-8FC1-8353510108D5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClosedPrinciple", "OpenClosedPrinciple\OpenClosedPrinciple.csproj", "{50806923-52DC-40C2-8754-5EB953A2367D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID.OpenClosedPrinciple", "OpenClosedPrinciple\SOLID.OpenClosedPrinciple.csproj", "{50806923-52DC-40C2-8754-5EB953A2367D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{F70F8BEF-AA6D-4732-8B9F-EAAECB1F5FC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID.LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\SOLID.LiskovSubstitutionPrinciple.csproj", "{F70F8BEF-AA6D-4732-8B9F-EAAECB1F5FC5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{0D6B2200-31F0-48C6-B450-D874C036F81C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID.InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\SOLID.InterfaceSegregationPrinciple.csproj", "{0D6B2200-31F0-48C6-B450-D874C036F81C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInversionPrinciple", "DependencyInversionPrinciple\DependencyInversionPrinciple.csproj", "{0A154071-2666-4FAC-B878-24DEFEB18FA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID.DependencyInversionPrinciple", "DependencyInversionPrinciple\SOLID.DependencyInversionPrinciple.csproj", "{0A154071-2666-4FAC-B878-24DEFEB18FA6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalBuilder", "CreationalBuilder\CreationalBuilder.csproj", "{7192C2D7-C415-4207-8979-43D13984EA11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.Builder", "CreationalBuilder\Creational.Builder.csproj", "{7192C2D7-C415-4207-8979-43D13984EA11}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderInheritance", "BuilderInheritance\BuilderInheritance.csproj", "{0612CC56-3D9F-4213-837F-7421FFAA4064}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.BuilderInheritance", "BuilderInheritance\Creational.BuilderInheritance.csproj", "{0612CC56-3D9F-4213-837F-7421FFAA4064}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionalBuilder", "FunctionalBuilder\FunctionalBuilder.csproj", "{11FDA5CE-F098-479A-8DCC-539987DDAABE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.FunctionalBuilder", "FunctionalBuilder\Creational.FunctionalBuilder.csproj", "{11FDA5CE-F098-479A-8DCC-539987DDAABE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalFactoriesFactory", "CreationalFactoriesFactory\CreationalFactoriesFactory.csproj", "{DE698DDD-50D6-4ABA-86C0-D3E9ADD218A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.FactoriesFactory", "CreationalFactoriesFactory\Creational.FactoriesFactory.csproj", "{DE698DDD-50D6-4ABA-86C0-D3E9ADD218A3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{0700E411-5713-459E-B960-F0B2A9719126}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.AbstractFactory", "AbstractFactory\Creational.AbstractFactory.csproj", "{0700E411-5713-459E-B960-F0B2A9719126}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeICloneableIsBad", "PrototypeICloneableIsBad\PrototypeICloneableIsBad.csproj", "{F0784688-3915-448A-A41A-C27CA6CB7553}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.PrototypeICloneableIsBad", "PrototypeICloneableIsBad\Creational.PrototypeICloneableIsBad.csproj", "{F0784688-3915-448A-A41A-C27CA6CB7553}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

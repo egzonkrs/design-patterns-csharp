@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace InterfaceSegregationPrinciple
+namespace SOLID.InterfaceSegregationPrinciple
 {
     public class Document
     {

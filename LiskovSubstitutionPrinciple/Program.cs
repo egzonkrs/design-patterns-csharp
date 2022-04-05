@@ -1,6 +1,6 @@
 ﻿using static System.Console;
 
-namespace LiskovSubstitutionPrinciple
+namespace SOLID.LiskovSubstitutionPrinciple
 {
     // using a classic example
     public class Rectangle

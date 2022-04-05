@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace FunctionalBuilder
+namespace Creational.FunctionalBuilder
 {
     public class Person
     {

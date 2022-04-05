@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading;
 
-namespace DesignPatterns
+namespace Creational.BuilderInheritance
 {
     public class Person
     {

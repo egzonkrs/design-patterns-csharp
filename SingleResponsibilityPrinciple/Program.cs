@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 using static System.Console;
 
-namespace SingleResponsibilityPrinciple
+namespace SOLID.SingleResponsibilityPrinciple
 {
     // just stores a couple of journal entries and ways of
     // working with them

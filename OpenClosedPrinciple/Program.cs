@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using static System.Console;
 
-namespace OpenClosedPrinciple
+namespace SOLID.OpenClosedPrinciple
 {
     public enum Color
     {

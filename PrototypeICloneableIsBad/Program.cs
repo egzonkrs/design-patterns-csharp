@@ -1,7 +1,7 @@
 ﻿using System;
 using static System.Console;
 
-namespace PrototypeICloneableIsBad
+namespace Creational.PrototypeICloneableIsBad
 {
     // ICloneable is ill-specified
     public class Address : ICloneable
