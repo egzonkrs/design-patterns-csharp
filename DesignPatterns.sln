@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.AbstractFactory"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.PrototypeICloneableIsBad", "PrototypeICloneableIsBad\Creational.PrototypeICloneableIsBad.csproj", "{F0784688-3915-448A-A41A-C27CA6CB7553}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{7323262B-7B72-481F-B374-E18A4DFE691F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{F0784688-3915-448A-A41A-C27CA6CB7553}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0784688-3915-448A-A41A-C27CA6CB7553}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0784688-3915-448A-A41A-C27CA6CB7553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7323262B-7B72-481F-B374-E18A4DFE691F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7323262B-7B72-481F-B374-E18A4DFE691F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7323262B-7B72-481F-B374-E18A4DFE691F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7323262B-7B72-481F-B374-E18A4DFE691F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
