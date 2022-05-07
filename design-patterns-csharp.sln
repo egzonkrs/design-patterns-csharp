@@ -31,7 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.PrototypeIClonea
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{BAEEC3F4-C420-4B7E-8F38-C22AD9883211}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Mediator", "Behavioral.Mediator\Behavioral.Mediator.csproj", "{AFF6E597-1148-4EF2-9F22-5547A6B122C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioral.Mediator", "Behavioral.Mediator\Behavioral.Mediator.csproj", "{AFF6E597-1148-4EF2-9F22-5547A6B122C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Builder", "Creational.Builder\Creational.Builder.csproj", "{D10D5C28-8586-4A28-A914-03D6BBC3C392}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{806B5095-44B0-4F70-A58B-725AA5B6FDB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural.Bridge", "Structural.Bridge\Structural.Bridge.csproj", "{DD542D81-F240-4AAF-A08A-0983E30A7970}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +93,14 @@ Global
 		{AFF6E597-1148-4EF2-9F22-5547A6B122C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFF6E597-1148-4EF2-9F22-5547A6B122C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFF6E597-1148-4EF2-9F22-5547A6B122C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D10D5C28-8586-4A28-A914-03D6BBC3C392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10D5C28-8586-4A28-A914-03D6BBC3C392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10D5C28-8586-4A28-A914-03D6BBC3C392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10D5C28-8586-4A28-A914-03D6BBC3C392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD542D81-F240-4AAF-A08A-0983E30A7970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD542D81-F240-4AAF-A08A-0983E30A7970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD542D81-F240-4AAF-A08A-0983E30A7970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD542D81-F240-4AAF-A08A-0983E30A7970}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -104,6 +118,8 @@ Global
 		{2A423297-6D10-44B6-BE6C-54DD6DDB6963} = {F2A73A53-A3E2-4C93-AB41-BDB41F5A1EBA}
 		{9B8A2220-8D46-4A03-BA50-B68DF3FF5DBD} = {F2A73A53-A3E2-4C93-AB41-BDB41F5A1EBA}
 		{AFF6E597-1148-4EF2-9F22-5547A6B122C5} = {BAEEC3F4-C420-4B7E-8F38-C22AD9883211}
+		{D10D5C28-8586-4A28-A914-03D6BBC3C392} = {F2A73A53-A3E2-4C93-AB41-BDB41F5A1EBA}
+		{DD542D81-F240-4AAF-A08A-0983E30A7970} = {806B5095-44B0-4F70-A58B-725AA5B6FDB5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {03B4A619-8D4B-4C53-9CA1-BFA896B4A66D}
