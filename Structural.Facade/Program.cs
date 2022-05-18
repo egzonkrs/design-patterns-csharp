@@ -70,3 +70,4 @@ namespace Structural.Facade
             Client.ClientCode(facade);
         }
     }
+}
