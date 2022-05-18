@@ -39,7 +39,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Bridge", "Structural.Bridge\Structural.Bridge.csproj", "{DD542D81-F240-4AAF-A08A-0983E30A7970}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Observer", "Behavioral.Observer\Behavioral.Observer.csproj", "{35E20811-86CF-4121-8423-0149B0593C4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioral.Observer", "Behavioral.Observer\Behavioral.Observer.csproj", "{35E20811-86CF-4121-8423-0149B0593C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural.Facade", "Structural.Facade\Structural.Facade.csproj", "{62FDCED3-2BA9-4825-8154-9A454D0A5BBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -107,6 +109,10 @@ Global
 		{35E20811-86CF-4121-8423-0149B0593C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35E20811-86CF-4121-8423-0149B0593C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35E20811-86CF-4121-8423-0149B0593C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62FDCED3-2BA9-4825-8154-9A454D0A5BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FDCED3-2BA9-4825-8154-9A454D0A5BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FDCED3-2BA9-4825-8154-9A454D0A5BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FDCED3-2BA9-4825-8154-9A454D0A5BBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -127,6 +133,7 @@ Global
 		{D10D5C28-8586-4A28-A914-03D6BBC3C392} = {F2A73A53-A3E2-4C93-AB41-BDB41F5A1EBA}
 		{DD542D81-F240-4AAF-A08A-0983E30A7970} = {806B5095-44B0-4F70-A58B-725AA5B6FDB5}
 		{35E20811-86CF-4121-8423-0149B0593C4F} = {BAEEC3F4-C420-4B7E-8F38-C22AD9883211}
+		{62FDCED3-2BA9-4825-8154-9A454D0A5BBB} = {806B5095-44B0-4F70-A58B-725AA5B6FDB5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {03B4A619-8D4B-4C53-9CA1-BFA896B4A66D}
