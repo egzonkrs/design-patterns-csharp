@@ -60,8 +60,8 @@ namespace Behavioral.Observer
             var person = new Person();
             var sub = person.Subscribe(this);
 
-            person.OfType<FallsIllEvent>()
-              .Subscribe(args => WriteLine($"A doctor has been called to {args.Address}"));
+            //person.OfType<FallsIllEvent>()
+            //  .Subscribe(args => WriteLine($"A doctor has been called to {args.Address}"));
         }
 
         public void OnNext(Event value)
