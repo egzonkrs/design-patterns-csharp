@@ -130,7 +130,7 @@ namespace Creational.Builder
         }
     }
 
-    public class Program
+    public class Example2
     {
         static void Main(string[] args)
         {
